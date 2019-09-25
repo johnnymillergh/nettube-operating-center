@@ -6,7 +6,7 @@
     <!-- POM Reference https://maven.apache.org/pom.html -->
 
     <!-- Project Basics -->
-    <groupId>com.jmsoftware</groupId>
+    <groupId>com.jmsoftware.nettube</groupId>
     <artifactId>nettube-operating-center</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>

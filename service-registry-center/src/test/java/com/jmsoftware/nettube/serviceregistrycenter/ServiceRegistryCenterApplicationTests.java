@@ -1,4 +1,4 @@
-package com.jmsoftware.serviceregistrycenter;
+package com.jmsoftware.nettube.serviceregistrycenter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.jmsoftware.serviceregistrycenter;
+package com.jmsoftware.nettube.serviceregistrycenter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
