@@ -25,7 +25,9 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <modules></modules>
+    <modules>
+        <module>service-registry-center</module>
+    </modules>
     <dependencyManagement>
         <dependencies>
             <dependency>

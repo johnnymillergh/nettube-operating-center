@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: service-registry-center
+  profiles:
+    active: @env@
+
+logging:
+  config: classpath:configuration/logback/logback-@env@.xml
+  # Configure logging level of project as DEBUG to enable SQL logging and other logging.
+  level:
+    com:
+      jmsoftware: DEBUG
