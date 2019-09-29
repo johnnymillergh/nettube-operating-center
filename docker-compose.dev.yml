@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  service-registry-center:
+    image: "ijohnnymiller/service-registry-center-dev:${TAG}"
+    container_name: service-registry-center
+    ports:
+      - 6371:6371
