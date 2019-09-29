@@ -1,8 +1,22 @@
 # Service Registry Center
 
-### Reference Documentation
-For further reference, please consider the following sections:
+Service Registry Center is a service providing `Service Discovery`, `Service Registry` etc.
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.1.8.RELEASE/maven-plugin/)
+[TOC]
+
+# How to Deploy Micro-service on Docker
+
+For example, the default environment is `development (dev)`. 
+
+1. Maven clean, validate, compile, package
+
+2. Run Maven plugin: dockerfile:build
+
+3. Run Docker compose
+
+   ```shell
+   docker-compose.dev.yml up -d
+   ```
+
+   
 
