@@ -1,5 +1,6 @@
 ![Spring Cloud Tutorial Feature Graphics](https://raw.githubusercontent.com/johnnymillergh/MaterialLibrary/master/nettube/nettube-github-social-image-light.png)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8074d46cfa014dcf869ed47f13b35112)](https://www.codacy.com/manual/johnnymillergh/nettube-operating-center?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=johnnymillergh/nettube-operating-center&amp;utm_campaign=Badge_Grade)
 [![GitHub release](https://img.shields.io/github/release/johnnymillergh/nettube-operating-center.svg)](https://github.com/johnnymillergh/nettube-operating-center/releases)
 [![Build Status](https://travis-ci.com/johnnymillergh/nettube-operating-center.svg?branch=master)](https://travis-ci.com/johnnymillergh/nettube-operating-center)
 [![GitHub issues](https://img.shields.io/github/issues/johnnymillergh/nettube-operating-center)](https://github.com/johnnymillergh/nettube-operating-center/issues)
