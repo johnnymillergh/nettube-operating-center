@@ -1,4 +1,5 @@
 ![Spring Cloud Tutorial Feature Graphics](https://raw.githubusercontent.com/johnnymillergh/MaterialLibrary/master/nettube/nettube-github-social-image-light.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnnymillergh%2Fnettube-operating-center.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnnymillergh%2Fnettube-operating-center?ref=badge_shield)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8074d46cfa014dcf869ed47f13b35112)](https://www.codacy.com/manual/johnnymillergh/nettube-operating-center?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=johnnymillergh/nettube-operating-center&amp;utm_campaign=Badge_Grade)
 [![GitHub release](https://img.shields.io/github/release/johnnymillergh/nettube-operating-center.svg)](https://github.com/johnnymillergh/nettube-operating-center/releases)
@@ -28,3 +29,7 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnnymillergh%2Fnettube-operating-center.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnnymillergh%2Fnettube-operating-center?ref=badge_large)
