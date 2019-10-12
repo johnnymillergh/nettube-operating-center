@@ -4,6 +4,9 @@ spring:
   profiles:
     active: @env@
 
+server:
+  port: 8761
+
 logging:
   config: classpath:configuration/logback/logback-@env@.xml
   # Configure logging level of project as DEBUG to enable SQL logging and other logging.
