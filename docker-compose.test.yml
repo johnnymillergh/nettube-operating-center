@@ -4,4 +4,4 @@ services:
     image: "ijohnnymiller/service-registry-center-test:${TAG}"
     container_name: service-registry-center
     ports:
-      - 6371:6371
+      - 8761:8761
